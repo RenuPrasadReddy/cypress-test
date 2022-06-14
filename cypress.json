@@ -1,1 +1,7 @@
-{}
+{
+    "testFiles": "**/*.js",
+  "NOT-defaultCommandTimeout": 20000,
+  "NOT-requestTimeout": 20000,
+  "videoUploadOnPasses": false,
+  "retries": 2
+}
